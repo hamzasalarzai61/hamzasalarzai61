@@ -1,3 +1,4 @@
+Hi there:
 # 💫 About Me:
 Engineering Student & Builder<br>Focused on Communication Systems, Microcontrollers (ESP32), Python, and PCB Design (KiCad / Altium). Interested in hardware-software integration and simulation.
 
@@ -6,7 +7,7 @@ Engineering Student & Builder<br>Focused on Communication Systems, Microcontroll
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@hamza salarzai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzasalarzai46@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hamzasalarzai61&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=hamzasalarzai61&theme=dark&hide_border=false)<br/>
