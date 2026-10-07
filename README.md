@@ -1,424 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0B3B5A,100:00D9FF&height=220&section=header&text=HAMZA%20SALARZAI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Embedded%20Systems%20%7C%20Communication&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B2545,75:075985,100:00D9FF&height=240&section=header&text=HAMZA%20SALARZAI&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Electrical%20Engineering%20%7C%20Embedded%20Systems%20%7C%20Communication&descAlignY=58&descSize=17&animation=fadeIn" />
+
+<br>
+
+<h2>⚡ Electrical Engineering Student &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Communication</h2>
 
 <p>
-  <a href="https://github.com/hamzasalarzai61">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://mastodon.social/@hamzasalarzai61">
-    <img src="https://img.shields.io/badge/Mastodon-0D1117?style=for-the-badge&logo=mastodon&logoColor=6364FF" />
-  </a>
+<b>Designing practical systems where electronics, hardware, software and communication come together.</b>
 </p>
 
 <br>
 
-> **Engineering ideas into practical systems.**
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-071A2B?style=for-the-badge&logo=espressif&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/COMMUNICATION-071A2B?style=for-the-badge&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/ELECTRONICS-071A2B?style=for-the-badge&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/PCB%20DESIGN-071A2B?style=for-the-badge&logoColor=00D9FF" />
 
-</div>
+<br><br>
 
----
+<a href="https://github.com/hamzasalarzai61">
+<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
-<div align="center">
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-### ELECTRICAL ENGINEERING • EMBEDDED SYSTEMS • COMMUNICATION • HARDWARE • SOFTWARE
+<a href="https://mastodon.social/@hamzasalarzai61">
+<img src="https://img.shields.io/badge/Mastodon-Connect-0D1117?style=for-the-badge&logo=mastodon&logoColor=6364FF" />
+</a>
 
-</div>
-
-<br>
-## 👨‍💻 About Me
-
-I am an **Electrical Engineering student** interested in building practical systems that combine electronics, embedded programming, communication technologies, and software.
-
-My main areas of interest are **Communication Systems, Embedded Systems, Electronics, PCB Design, Signal Processing, and Hardware-Software Integration**.
-
-I enjoy taking an engineering idea from:
-
-**Concept → Circuit → Simulation → Programming → Hardware → Working System**
-
----
-
-## ⚡ Engineering Focus
+<br><br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🔌 Embedded Systems
+### 🔌
+**HARDWARE**
 
-* ESP32
-* Microcontrollers
-* Sensors
-* Embedded C/C++
-* Hardware interfacing
-* Real-time system concepts
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📡 Communication Systems
-
-* Signals & Systems
-* Signal Processing
-* Wireless Communication
-* RF Fundamentals
-* Communication concepts
-* System-level design
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Electronics
-
-* Analog Electronics
-* Op-Amps
-* Transistors
-* Circuit Analysis
-* Circuit Design
-* Circuit Simulation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 PCB & Hardware
-
-* KiCad
-* Altium Designer
-* PCB Design
-* Schematic Design
-* Hardware Prototyping
-* Hardware Debugging
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software
-
-* C
-* C++
-* Python
-* Embedded Programming
-* Hardware-Software Integration
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Engineering Approach
-
-**Design → Simulate → Build → Test → Improve**
-
-I focus on understanding how the complete system works rather than only working with individual components.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Stack
-
-### Programming
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### Embedded & Hardware
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Microcontrollers-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Sensors-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-1F2937?style=flat-square" />
-</p>
-
-### PCB & Electronics
-
-<p>
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
-<img src="https://img.shields.io/badge/Altium%20Designer-E6492D?style=flat-square" />
-<img src="https://img.shields.io/badge/PCB%20Design-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Circuit%20Design-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Analog%20Electronics-1F2937?style=flat-square" />
-</p>
-
-### Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Communication%20Systems-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Signal%20Processing-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Circuit%20Simulation-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Hardware--Software%20Integration-1F2937?style=flat-square" />
-</p>
-
----
-
-# 🚀 Featured Engineering Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔥 ESP32 Embedded System
-
-A practical microcontroller-based system focused on hardware interfacing, sensors, programming, and system control.
-
-**Tech**
-
-`ESP32` `C++` `Sensors` `Embedded Systems`
-
-**Repository**
-
-[View Project →](https://github.com/hamzasalarzai61)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📡 Communication System
-
-An engineering project exploring communication concepts, signals, system behavior, and practical implementation.
-
-**Tech**
-
-`Communication Systems` `C` `Signal Processing`
-
-**Repository**
-
-[View Project →](https://github.com/hamzasalarzai61)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔲 PCB Design Project
-
-A hardware design project involving schematic development, PCB layout, component selection, and board-level design.
-
-**Tech**
-
-`KiCad` `Altium` `PCB Design` `Electronics`
-
-**Repository**
-
-[View Project →](https://github.com/hamzasalarzai61)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Analog Electronics Project
-
-A practical electronics project involving circuit design, analysis, simulation, and testing.
-
-**Tech**
-
-`Op-Amp` `Analog Electronics` `Circuit Design`
-
-**Repository**
-
-[View Project →](https://github.com/hamzasalarzai61)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Signal Processing Project
-
-A project focused on processing and analyzing signals using programming and engineering concepts.
-
-**Tech**
-
-`Python` `Signal Processing` `Communication Systems`
-
-**Repository**
-
-[View Project →](https://github.com/hamzasalarzai61)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Practical Engineering System
-
-A hardware-software project designed to solve a practical engineering problem through system integration.
-
-**Tech**
-
-`Embedded Systems` `Electronics` `Python` `Hardware`
-
-**Repository**
-
-[View Project →](https://github.com/hamzasalarzai61)
-
-</td>
-
-</tr>
-</table>
-
-> **Note:** Replace the project descriptions and repository links with your actual projects.
-
----
-
-# 📚 Currently Exploring
-
-<table>
-<tr>
-<td>
-
-### 01 — Communication
-
-Communication Systems  
-Signals & Systems  
-RF Fundamentals
-
-</td>
-
-<td>
-
-### 02 — Embedded
-
-ESP32  
-Microcontrollers  
-Sensors
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 03 — Hardware
-
-PCB Design  
 Electronics  
+PCB Design  
 Prototyping
 
 </td>
 
-<td>
+<td align="center" width="33%">
 
-### 04 — Software
+### 💻
+**SOFTWARE**
 
-C  
-C++  
-Python  
+C · C++ · Python  
+Embedded Programming  
 System Integration
+
+</td>
+
+<td align="center" width="33%">
+
+### 📡
+**COMMUNICATION**
+
+Signals & Systems  
+Signal Processing  
+Wireless & RF
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-# 🔬 Engineering Workflow
+<img src="https://img.shields.io/badge/●%20CURRENTLY%20BUILDING-Embedded%20%26%20Communication%20Systems-00D9FF?style=flat-square&labelColor=0D1117&color=071A2B" />
 
-<div align="center">
+<br><br>
 
-### IDEA
-↓
-### DESIGN
-↓
-### SIMULATE
-↓
-### PROTOTYPE
-↓
-### TEST
-↓
-### IMPROVE
+<p>
+<i>From circuit-level ideas to working engineering systems.</i>
+</p>
 
 </div>
 
-I believe engineering becomes meaningful when theoretical concepts are turned into **working and tested systems**.
-
 ---
-
-# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzasalarzai61&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### ENGINEERING • HARDWARE • SOFTWARE • COMMUNICATION
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasalarzai61&layout=compact&theme=tokyonight&hide_border=true" />
+`DESIGN` → `SIMULATE` → `BUILD` → `TEST` → `IMPROVE`
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasalarzai61&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🌐 Building in Public
-
-I am continuously developing my engineering skills through:
-
-* Practical electronics projects
-* Embedded system development
-* Communication system studies
-* PCB design
-* Programming
-* Circuit simulation
-* Hardware experimentation
-* Hardware-software integration
-
-The goal is simple:
-
-> **Learn the concept. Build the system. Test it. Improve it.**
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/hamzasalarzai61">
-<img src="https://img.shields.io/badge/GitHub-Hamza%20Salarzai-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://mastodon.social/@hamzasalarzai61">
-<img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Engineering ideas into practical systems.
-
-**Electrical Engineering · Embedded Systems · Communication · Hardware · Software**
-
-</div>
+## 👨‍💻 About Me
